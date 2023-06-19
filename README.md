@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 <br>
 
 <!-- github stat 표시 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soobin-Park&show_icons=true&theme=radical)
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Soobin-Park&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Mint's github stats" /></a>
+
+<!-- 언어 사용량 -->
+<a href="https://github.com/Soobin-Park"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soobin-Park&layout=compact&theme=onedark&hide_border=true" /></a> 
 
 <!-- solved.ac 표시 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jr2165)](https://solved.ac/jr2165)
-
-<!-- 언어 사용량 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soobin-Park&layout=compact&theme=onedark)
