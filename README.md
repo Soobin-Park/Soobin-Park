@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>🌱 I’m currently learning </h1></div>
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 
 <p>
 <!-- github stat 표시 -->
+![Mint's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soobin-Park&show_icons=true&theme=radical&include_all_commits=true&theme=radical&hide_border=true&count_private=true)
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Soobin-Park&repo=github-readme-stats&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&count_private=true" alt="Mint's github stats" />
 
 <!-- 언어 사용량 -->
