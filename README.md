@@ -40,3 +40,9 @@ Here are some ideas to get you started:
 
 <!-- github stat 표시 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soobin-Park&show_icons=true&theme=radical)
+
+<!-- solved.ac 표시 -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jr2165)](https://solved.ac/jr2165)
+
+<!-- 언어 사용량 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soobin-Park&layout=compact&theme=onedark)
