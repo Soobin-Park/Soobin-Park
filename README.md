@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <!-- github stat 표시 -->
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Soobin-Park&repo=github-readme-stats&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&count_private=True" alt="Mint's github stats" />
 <!-- 언어 사용량 -->
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soobin-Park&repo=convoychat&layout=compact&theme=onedark&hide_border=truecount_private=true" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soobin-Park&repo=convoychat&layout=compact&theme=onedark&hide_border=true&count_private=true" />
 </div> 
 
 <br>
